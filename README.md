@@ -80,7 +80,7 @@ The UI should be responsive across desktop and mobile devices.
 
 The system should be available 99.9% of the time.
 
-Use Case Diagrams
+Use Case Diagrams - https://github.com/ben-m-m/requirement-analysis/blob/main/alx-booking-uc.png
 
 Definition:
 A Use Case Diagram visually represents system interactions by showing relationships between actors (users or systems) and use cases (functionalities).
